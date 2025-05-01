@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Paxton 👋
 
-<!--
-**PaxtonTabat/PaxtonTabat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Cybersecurity Analyst who enjoys building security tools and automating tasks. My main focus is on cybersecurity, threat detection. SIEM, automation, and Python.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Technologies
+- 🐍 **Python**
+- 🔐 **Cybersecurity**
+- 🧑‍💻 **Automation**
+- 📊 **Data Analysis**
+- 🔄 **Networking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My Stats
+
+![Paxton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaxtonTabat&show_icons=true&hide_title=true)
+
+## 📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/paxtontabat/)
